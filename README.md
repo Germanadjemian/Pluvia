@@ -60,7 +60,6 @@ La aplicación está diseñada para ser confiable para los productores, aseguran
 ## Tutoriales Node
 
 - [*Tutorial 1 (por partes)*](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=1)  
-- [*Tutorial 2*](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=2)  
-- [*Tutorial 3*](https://www.youtube.com/watch?v=i3OdKwuBjeM)  
-- [*Tutorial 4 (a partir del min 5:32:40)*](https://www.youtube.com/watch?v=Oe421EPjeBE)  
+- [*Tutorial 2*](https://www.youtube.com/watch?v=i3OdKwuBjeM)  
+- [*Tutorial 3 (a partir del min 5:32:40)*](https://www.youtube.com/watch?v=Oe421EPjeBE)  
 
