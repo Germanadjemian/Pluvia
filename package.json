@@ -1,0 +1,21 @@
+{
+  "name": "pluvia",
+  "version": "1.0.0",
+  "description": "Agrro-Fit",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Germanadjemian/Pluvia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Germanadjemian/Pluvia/issues"
+  },
+  "homepage": "https://github.com/Germanadjemian/Pluvia#readme"
+}
