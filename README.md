@@ -3,7 +3,7 @@
 
 *Ejecuta `npm run dev` para correr el servidor.*
 
-[T*Prototipo de la aplicación (Figma)*](https://www.figma.com/design/0Z2nf0IBI3BKyHK4va4Vf6/PluvIA-0.2)
+[*Prototipo de la aplicación (Figma)*](https://www.figma.com/design/0Z2nf0IBI3BKyHK4va4Vf6/PluvIA-0.2)
 
 
 ## Introducción
