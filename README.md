@@ -58,7 +58,7 @@ La aplicación contará con una base de datos para almacenar la información de 
 La aplicación está diseñada para ser confiable para los productores, asegurando que puedan ver todos los datos relevantes. Además, busca ser **user-friendly** e **intuitiva** para facilitar su uso por parte de los usuarios.
 
 ## Tutoriales Node
--[*Tutorial 1 (por partes)*](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=1)
--[*Tutorial 2*](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=2)
--[*Tutorial 3*](https://www.youtube.com/watch?v=i3OdKwuBjeM)
--[*Tutorial 4 (a partir del min 5:32:40)*](https://www.youtube.com/watch?v=Oe421EPjeBE)
+-[*Tutorial 1 (por partes)*](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=1)**
+-[*Tutorial 2*](https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&index=2)**
+-[*Tutorial 3*](https://www.youtube.com/watch?v=i3OdKwuBjeM)**
+-[*Tutorial 4 (a partir del min 5:32:40)*](https://www.youtube.com/watch?v=Oe421EPjeBE)**
