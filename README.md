@@ -3,6 +3,9 @@
 
 *Ejecuta `npm run dev` para correr el servidor.*
 
+[T*Prototipo de la aplicación (Figma)*](https://www.figma.com/design/0Z2nf0IBI3BKyHK4va4Vf6/PluvIA-0.2)
+
+
 ## Introducción
 
 **PluvIA** es un emprendimiento que actualmente colabora con **ITHAKA** y busca ofrecer una solución integral a los productores de arroz respecto al estado de su cultivo. Su misión es automatizar el control del riego en los campos arroceros, con el objetivo de evitar ineficiencias y pérdidas de rendimiento, proporcionar una herramienta confiable y eficiente, y convertirse en un actor clave en la toma de decisiones sobre el riego. La herramienta está diseñada para ser sencilla para el productor y fácil de usar para los trabajadores de las plantaciones.

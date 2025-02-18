@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Germanadjemian/Pluvia/issues"
   },
-  "homepage": "https://github.com/Germanadjemian/Pluvia#readme"
+  "homepage": "https://github.com/Germanadjemian/Pluvia#readme",
+  "dependencies": {
+    "pluvia": "file:"
+  }
 }
