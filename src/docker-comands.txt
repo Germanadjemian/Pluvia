@@ -1,0 +1,5 @@
+$ docker-compose -f src\docker-compose.yml up -d --no-recreate (levanta el contenedor)
+
+$ docker start some-postgres (para correrlo una vez creado)
+
+$ docker run --name some-postgres -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -d postgres (Ignorar este)
