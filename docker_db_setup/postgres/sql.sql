@@ -1,4 +1,4 @@
-SQL DE PRUEBA:
+--SQL DE PRUEBA:
 -- Crear el tipo ENUM antes de usarlo
 CREATE TYPE rol_type AS ENUM ('admin', 'productor');
 
