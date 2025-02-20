@@ -1,8 +1,6 @@
-
-
 services:
   db:
-    image: postgres:latest
+    build: ./postgres  
     container_name: some-postgres
     restart: always
     ports:
